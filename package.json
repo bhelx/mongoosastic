@@ -11,7 +11,7 @@
   "main":"lib/mongoosastic.js",
   "dependencies": {
       "mongoose":"2.6.5"
-    , "elastical":"0.0.9"
+    , "elastical": "git://github.com/bhelx/node-elastical.git#master"
   },
   "devDependencies": {
       "mocha":"1.2.2"
